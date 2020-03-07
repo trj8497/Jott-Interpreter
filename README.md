@@ -1,4 +1,4 @@
-#Interpreter for programming language,Jott.
+# Interpreter for programming language, Jott.
 
 The version of Java used in the following code is: Java 10.0.2
 
